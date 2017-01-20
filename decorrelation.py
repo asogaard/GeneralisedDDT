@@ -112,7 +112,7 @@ def main ():
 
     # Check that the hyperparameter optimisation has been performed for the given choice of variables.
     print "-- Check hyperparameter optimisation."
-    hyperopt_dir = "./hyperparameterOptimisation/"
+    hyperopt_dir = "./output/hyperparameteroptimisation/"
     hyperopt_README  = hyperopt_dir + "README.txt"
     hyperopt_xscaler = hyperopt_dir + "scaler_%s.pkl" % varx
     hyperopt_yscaler = hyperopt_dir + "scaler_%s.pkl" % vary
