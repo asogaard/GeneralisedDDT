@@ -17,4 +17,4 @@ The [common.py](common.py) file includes various utility functions which are use
 
 ## Dependencies
 
-The various scripts in this repository depend on `numpy`, `root_numpy`, `scipy`, `scikit-learn`, and `matplotlib` for data handling, fitting, and plotting. These either need to be installed manually using a package manager such as `pip` or, if working on the CERN lxplus cluster, they can be used by specifying the correct environment variables e.g. using the [pythonenv.sh](https://www.github.com/asogaard/scripts/pythonenv.sh) script in the [scripts](https://www.github.com/asogaard/scripts) repository.
+The various scripts in this repository depend on `numpy`, `root_numpy`, `scipy`, `scikit-learn`, and `matplotlib` for data handling, fitting, and plotting. These either need to be installed manually using a package manager such as `pip` or, if working on the CERN lxplus cluster, they can be used by specifying the correct environment variables e.g. using the [pythonenv.sh](https://github.com/asogaard/scripts/blob/master/pythonenv.sh) script in the [scripts](https://www.github.com/asogaard/scripts) repository.
